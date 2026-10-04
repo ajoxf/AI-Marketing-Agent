@@ -22,6 +22,20 @@ file before every task. When it conflicts with a skill's generic advice, this fi
 - **Site source:** `ajoxf/NorthStar-Research` (Next.js). Public pages: `/`, `/coverage`,
   `/experts`, `/experts/[slug]`, `/faqs`, `/join`, `/trial`, `/disclaimer`.
 
+## Business model
+
+- **NordStar Pro is a multi-expert marketplace.** Several technical analysts and subject
+  experts publish research. The platform keeps **30% of net revenue** and the expert
+  keeps 70%.
+- **Sister platform: Fincoursa** (finance courses, repo `ajoxf/Fincoursa_LMS`, currently a
+  UI prototype; courses run on Thinkific). The platform keeps **50% of net**.
+- Experts are the primary sales channel and the first tier of affiliates. Cross-sell
+  between the platforms: course completion leads to a research trial, and research leads
+  to courses. Strategy, splits, and affiliate rules are in
+  `playbooks/marketplace-sales-and-affiliates.md`.
+- **Affiliate content** must carry an affiliate disclosure and use approved swipe copy,
+  with no performance claims. Never move money: draft payout reports for a human to pay.
+
 ## Funnel links (use these exactly)
 
 | Purpose | Link |
