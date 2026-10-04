@@ -13,7 +13,7 @@ Research was done on 2026-10-04. The details are in the files below.
 | [`research/github-agents.md`](research/github-agents.md) | Open-source sales and marketing agents, Claude skills, and MCP servers, each rated |
 | [`research/commercial-tools.md`](research/commercial-tools.md) | Hosted AI SDRs, chat, SEO/GEO, social, ads, voice, and email tools, with prices and evidence |
 | [`CLAUDE.md`](CLAUDE.md) | The agent's operating brief: business facts, funnel links, voice, and compliance guardrails |
-| [`playbooks/`](playbooks/) | Weekly loop, go-to-market plan, marketplace sales and affiliates, Fincoursa plan, B2B plan |
+| [`playbooks/`](playbooks/) | Weekly loop, go-to-market plan, marketplace sales and affiliates, Fincoursa plan, B2B plan, broker licensing and exit |
 
 ---
 
