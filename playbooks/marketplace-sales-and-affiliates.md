@@ -36,6 +36,8 @@ The definitions below are assumptions; confirm them in your expert contracts.
 
 ### Fincoursa: $499 course (net ≈ $484, one-time)
 
+> Superseded: Fincoursa now sells **$199 modules**. See `fincoursa-plan.md` §6 for the current numbers.
+
 | Who brought the customer | Affiliate | Instructor | Platform |
 |---|---|---|---|
 | Platform | — | 50% = $242 | 50% = **$242** |

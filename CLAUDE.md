@@ -28,7 +28,9 @@ file before every task. When it conflicts with a skill's generic advice, this fi
   experts publish research. The platform keeps **30% of net revenue** and the expert
   keeps 70%.
 - **Sister platform: Fincoursa** (finance courses, repo `ajoxf/Fincoursa_LMS`, currently a
-  UI prototype; courses run on Thinkific). The platform keeps **50% of net**.
+  UI prototype; courses run on Thinkific). The platform keeps **50% of net**. Pricing:
+  **$199 per module**, with track bundles, certificates, and All-Access, modelled on Wall
+  Street Prep (`playbooks/fincoursa-plan.md`).
 - Experts are the primary sales channel and the first tier of affiliates. Cross-sell
   between the platforms: course completion leads to a research trial, and research leads
   to courses. Strategy, splits, and affiliate rules are in
