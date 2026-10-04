@@ -29,8 +29,12 @@ file before every task. When it conflicts with a skill's generic advice, this fi
   keeps 70%.
 - **Sister platform: Fincoursa** (finance courses, repo `ajoxf/Fincoursa_LMS`, currently a
   UI prototype; courses run on Thinkific). The platform keeps **50% of net**. Pricing:
-  **$199 per module**, with track bundles, certificates, and All-Access, modelled on Wall
+  **$199 per module**, with track bundles, certificates, and live cohorts, modelled on Wall
   Street Prep (`playbooks/fincoursa-plan.md`).
+- **Revenue split is flat and never varies:** experts get 70% of net research revenue and
+  instructors get 50% of net course revenue. Net = paid − processor fees − refunds − tax.
+  The platform pays affiliate commissions from its own share. Bundles split equally
+  across their products. Don't propose channel-based or tiered splits.
 - Experts are the primary sales channel and the first tier of affiliates. Cross-sell
   between the platforms: course completion leads to a research trial, and research leads
   to courses. Strategy, splits, and affiliate rules are in

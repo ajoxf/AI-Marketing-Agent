@@ -1,7 +1,7 @@
 # Selling NordStar Pro + Fincoursa, automated: experts, affiliates, and the flywheel
 
-Status: **proposal.** Revenue-split variations and affiliate terms below are recommendations
-for you to decide. They change contracts with experts. Nothing here changes either live
+Status: **proposal.** The revenue split is a flat 70/30 (research) and 50/50 (courses).
+Affiliate terms below are recommendations for you to decide. They change contracts with experts. Nothing here changes either live
 site.
 
 ## 1. What you are actually running
@@ -18,37 +18,42 @@ them to sell, and let the platforms cross-sell each other. Experts are your best
 affiliates. A marketplace that relies on its own ads at a 30% take rate rarely makes money;
 one where experts bring their audiences does.
 
-## 2. Unit economics (worked example)
+## 2. Revenue split: one simple rule
 
-The definitions below are assumptions; confirm them in your expert contracts.
-- **Net revenue** = gross − payment fees − refunds/chargebacks − sales tax/VAT −
-  affiliate commissions.
-- Example prices: a NordStar Pro subscription at $199/mo (net ≈ $192); a Fincoursa course
-  at $499 (net ≈ $484). The course price is a placeholder; use your real price.
+> **Experts get 70% of net research revenue. Instructors get 50% of net course revenue.
+> Always.** It doesn't matter who brought the customer, which product they bought, or
+> whether an affiliate was involved.
 
-### NordStar Pro: $199/mo subscription (net ≈ $192/mo)
+| | NordStar Pro (research) | Fincoursa (courses) |
+|---|---|---|
+| Expert / instructor | **70% of net** | **50% of net** |
+| Platform | 30% of net | 50% of net |
+| Affiliate commissions | Paid **by the platform**, from its 30% | Paid **by the platform**, from its 50% |
+| Bundles (several experts) | Split equally between the products in the bundle | Split equally between the modules in the track |
+| Paid | Monthly, one statement per expert | Monthly, one statement per instructor |
 
-| Who brought the customer | Affiliate | Expert | Platform | Platform per year |
+**Net revenue** = what the customer paid − payment-processor fees − refunds and
+chargebacks − sales tax/VAT. That is the whole definition. Affiliate commissions are
+**not** deducted, so an expert's number never depends on how the sale happened.
+
+**Discounts:** experts earn their percentage of what the customer actually paid. To keep
+that fair, platform-wide discounts are capped at 15% unless the expert agrees to more.
+
+**The monthly statement has one line per product:** gross − fees − refunds − tax = net ×
+your % = your payout. An expert should be able to check it with a calculator.
+
+### What this means per sale
+
+| Sale | Net | Expert / instructor | Platform, no affiliate | Platform, with affiliate |
 |---|---|---|---|---|
-| Platform (SEO, content, platform ads) | — | 70% = $134 | 30% = **$58** | $691 |
-| A third-party affiliate (20% of net for 12 months, off the top) | $38 | $108 | **$46** | $553 |
-| The expert's own audience (recommended: 80/20 for 12 months) | — | 80% = $154 | 20% = **$38** | $461 at zero acquisition cost |
+| NordStar Pro, $199/mo | ≈ $192 | **$134/mo** | $58/mo | $19/mo for the first 12 months (affiliate gets 20% = $38), then $58 |
+| Fincoursa module, $199 | ≈ $193 | **$96** | $96 | $38 (affiliate gets 30% = $58) |
+| Fincoursa track, $599 | ≈ $581 | **$291**, split equally across its modules | $291 | $116 (affiliate gets 30% = $174) |
 
-### Fincoursa: $499 course (net ≈ $484, one-time)
-
-> Superseded: Fincoursa now sells **$199 modules**. See `fincoursa-plan.md` §6 for the current numbers.
-
-| Who brought the customer | Affiliate | Instructor | Platform |
-|---|---|---|---|
-| Platform | — | 50% = $242 | 50% = **$242** |
-| A third-party affiliate (30% of net, off the top) | $145 | $169 | **$169** |
-| The instructor's own audience (recommended: 70/30) | — | 70% = $339 | 30% = **$145** |
-
-**Why channel-based splits matter:** under a flat 70/30, an expert has little reason to
-push their own followers to your platform instead of their own Substack or Patreon.
-Giving them more when they bring the customer is how the largest course marketplaces get
-instructors to market for them. The platform still earns on customers it spent nothing to
-acquire, and the experts do your marketing.
+**The trade-off you're accepting:** with a flat split, experts get no extra reward for
+bringing their own audience. That's fine. Their payoff is that their followers become
+paying subscribers at 70%, which is more than most newsletter platforms leave them after
+their own marketing costs. Revisit only if experts clearly aren't promoting.
 
 **Rule of thumb:** a customer's lifetime value at the platform's share must be at least 3×
 what you spend to acquire them. At about $58/mo and a typical 6–9 month subscription, the
@@ -61,9 +66,9 @@ cost well under $120–170 per paying member, or not run at all.
 
 | Tier | Who | Terms (proposal) | How to recruit |
 |---|---|---|---|
-| **1. Experts and instructors** | Everyone publishing on either platform | Channel split above, plus standard affiliate commission when they refer to *another* expert's product | Built into onboarding: every expert gets links on day one |
+| **1. Experts and instructors** | Everyone publishing on either platform | Same flat split on their own products. Standard affiliate commission when they refer *another* expert's product | Built into onboarding: every expert gets links on day one |
 | **2. Members and students (referral)** | Paying customers | Give one month free / get one month free (research); 20% off for the friend + store credit for the referrer (courses) | Automatic invite after the 2nd month or at course completion |
-| **3. Finance creators** | YouTubers, newsletter writers, podcasters, Discord/Telegram community owners in trading and technical analysis | Research: 20% of net for 12 months. Courses: 30% of net. Top performers: 25–40% | Agent finds and drafts personal pitches weekly; a human sends them |
+| **3. Finance creators** | YouTubers, newsletter writers, podcasters, Discord/Telegram community owners in trading and technical analysis | Research: 20% of net for 12 months. Courses: 30% of net. Paid from the platform's share | Agent finds and drafts personal pitches weekly; a human sends them |
 | **4. Professional partners** | CMT chapters, trading-tool vendors (charting platforms, brokers' education teams), exam-prep providers | Co-branded discount codes, a revenue share or sponsorship, and content swaps | Founder-led partnership conversations |
 | **5. Institutional referrers** | RIAs or consultants who introduce firms | A one-time introduction fee on signed firm licences | Warm network only |
 
@@ -171,15 +176,15 @@ The engine is the Claude agent on scheduled runs, plus the tools listed under "T
 | Gap | Where | Why it matters |
 |---|---|---|
 | Affiliate awards are % of the **first payment only** | `src/lib/affiliates.ts` → `awardFor` / `describeReward` | 12-month recurring commissions (the standard for subscriptions) aren't supported. Creators earn about $38 once instead of about $460 a year, which is much less attractive to recruit with. |
-| No expert revenue-share or payout ledger | `prisma/schema.prisma` (Author has no share/payout fields) | The 70/30 split, channel-based splits, and monthly expert statements are manual today |
+| No expert revenue-share or payout ledger | `prisma/schema.prisma` (Author has no share/payout fields) | The 70/30 split and monthly expert statements are manual today |
 | No cross-platform customer or affiliate identity | Two separate codebases | Credit for a customer an expert brought can't follow them from Fincoursa to NordStar Pro |
 | Fincoursa has no backend (UI prototype with mock data) | `ajoxf/Fincoursa_LMS` | Courses must stay on Thinkific, or a backend is needed, before any of this automates there |
 
 ## 7. 90-day sequence
 
 1. **Weeks 1–2:**
-   - Decide the split and affiliate terms (section 2), and update expert and instructor
-     contracts.
+   - Put the flat split (section 2) into the expert and instructor contracts, and decide
+     affiliate terms.
    - Write the affiliate agreement with a lawyer.
 2. **Weeks 2–4:**
    - Onboard the current experts as Tier 1 affiliates.
@@ -194,5 +199,6 @@ The engine is the Claude agent on scheduled runs, plus the tools listed under "T
      any sales, and 2–3 to produce most of them.
    - Weekly expert recruiting runs alongside.
 5. **Week 12 review:**
-   - Revenue by channel (platform / expert / affiliate) and platform margin per channel.
+   - Revenue by channel (platform / expert / affiliate), and platform margin after affiliate
+     commissions.
    - Top affiliates move to higher tiers; inactive ones are removed.

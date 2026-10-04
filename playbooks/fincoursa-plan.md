@@ -44,7 +44,7 @@ the Association's rules allow it.
 | 1. Starter | 60–90 minute mini-course (e.g. "Reading a chart in 90 minutes") | $49 | Lifetime | Turns a lead into a buyer cheaply |
 | 2. **Module** | One topic, 3–6 hours of video, exercises, quiz | **$199** | Lifetime (WSP standard) or 12 months (decide) | Core unit; one instructor each |
 | 3. **Track + certificate** | 5–6 modules + final exam + verified certificate | **$599** (list $995–1,194 bought separately) | Lifetime | Main revenue product, like WSP's Premium Package |
-| 4. All-Access | Every module and track, new modules as released, monthly live Q&A | **$799/yr** | 12 months, renewing | Recurring revenue, like CFI's $497–847/yr |
+| 4. All-Access (**later**, not at launch) | Every module and track, new modules as released, monthly live Q&A | $799/yr | 12 months, renewing | Recurring revenue, like CFI's $497–847/yr. Deferred because the instructor split needs a usage pool |
 | 5. Live cohort | 6 weeks, live classes with an instructor, office hours, capstone | $1,499 | Cohort + lifetime replay | Premium price; run through CMT chapters and partners |
 | 6. Institutional | Team licences, student-club licences, co-branded certificates | §5 | — | Volume and credibility |
 
@@ -89,7 +89,7 @@ removes the "should I wait for the bundle?" hesitation that kills module sales.
      Google treats mass-produced pages as scaled content abuse.
 2. **Free lessons + cheat-sheet PDFs** as email lead magnets, one per track.
 3. **Monthly free webinar** taught by a rotating instructor. It acquires new leads and is
-   also a perk for All-Access members (WSP does both).
+   also a perk for track buyers (WSP does both).
 4. **Instructor-led social:** each instructor posts 2–3 short chart lessons a week
    (YouTube Shorts, LinkedIn, X), linking to their free lesson with their own affiliate
    tag.
@@ -106,42 +106,38 @@ removes the "should I wait for the bundle?" hesitation that kills module sales.
 | Buyer | Offer | Price (proposal) | Route in |
 |---|---|---|---|
 | **CMT chapters** | Live cohort or bootcamp co-hosted with the chapter; member discount | $1,499, or a per-head fee shared with the chapter | Instructors who are chapter members (CFA societies are WSP's equivalent) |
-| **University finance and investment clubs** | Student licence: All-Access for 12 months | ~$149/student, minimum 20 (WSP passports reportedly sell at $200–300) | Club officers; the faculty adviser signs |
+| **University finance and investment clubs** | Student licence: one track per student | ~$149/student, minimum 20 (WSP passports reportedly sell at $200–300) | Club officers; the faculty adviser signs |
 | **RIAs and wealth firms** | Team licence + CE credit for the adviser tracks | ~$399/learner/yr, minimum 5 (CFI teams reportedly $399–497) | Same outreach as NordStar Pro's RIA plan |
 | **Prop firms, brokers, trading-tool vendors** | Licence the Technical Analysis track as onboarding for their traders or customers | Custom | Partnership conversations; Optuma already uses free CMT prep this way |
 | **Banks and institutions** | Analyst training | Custom | Year two, after the certificate has a track record |
 
-## 6. Affiliates for Fincoursa
+## 6. Revenue split and affiliates
 
-Assumptions: a $199 module nets about $193 after card fees, and a $599 track about $581.
+**Revenue split, kept simple:** instructors get **50% of net revenue on everything**:
+modules, tracks, and live cohorts. Net = paid − card fees − refunds − tax. The platform
+pays all affiliate commissions from its own 50%. A track's instructor half is split
+**equally across its modules**, and since every module is $199, that equals splitting by
+list price. All-Access is **not offered at launch**, because splitting it fairly needs a
+usage pool, which is the opposite of simple. Revisit it after launch.
 
-| Sale | Platform, no affiliate (50%) | With affiliate (30% of net off the top) |
+| Sale | Net | Instructor | Platform, no affiliate | Platform, with affiliate (30% of net) |
+|---|---|---|---|---|
+| $199 module | ≈ $193 | **$96** | $96 | $38 |
+| $599 track (6 modules) | ≈ $581 | **$291** (≈ $48 per module owner) | $291 | $116 |
+| $1,499 live cohort | ≈ $1,456 | **$728** | $728 | $291 |
+
+| Affiliate tier | Commission (paid by the platform) | Audience discount |
 |---|---|---|
-| $199 module | Platform $96 / instructor $96 | Affiliate $58 / platform $67 / instructor $67 |
-| $599 track | Platform $291 / instructor $291 | Affiliate $174 / platform $203 / instructor $203 |
-| $799 All-Access (year 1) | Platform $388 / instructor pool $388 | Affiliate $233 / platform $271 / pool $271 |
-
-| Tier | Commission (proposal) | Audience discount |
-|---|---|---|
-| Instructors (own audience) | Channel split 70/30 in the instructor's favour (see `marketplace-sales-and-affiliates.md`) | Up to 15% |
+| Instructors | Their normal 50% on their own modules. 30% of net when they refer *another* instructor's module or track | Up to 15% |
 | Finance creators | 30% of net (CFI reportedly pays up to 15% and gives 30% off; a higher commission with a smaller discount is the better recruiting pitch) | 10–15% |
-| Customers (referral code) | $40 credit per referred purchase, calculated on retail price as WSP does | 10% |
-| Student ambassadors (one per campus club) | 20% + free All-Access while active | Club code |
-| CMT chapters and partners | Revenue share or a per-head fee on co-hosted cohorts | Member price |
+| Customers (referral code) | $40 credit per referred purchase | 10% |
+| Student ambassadors (one per campus club) | 20% of net + a free track while active | Club code |
+| CMT chapters and partners | A per-head fee on co-hosted cohorts, paid from the platform's half | Member price |
 
 Same rules as NordStar Pro: affiliate disclosure, no earnings or performance claims,
 approved copy only, no brand-keyword bidding, 30-day cookie, payouts after the refund
-window, and clawbacks on refunds.
-
-### How to split multi-instructor products
-
-- **Track:** split the instructor half across the modules' owners in proportion to each
-  module's list price.
-- **All-Access:** pool the instructor half and split it monthly by each instructor's share
-  of lessons completed or minutes watched (the standard subscription-marketplace method).
-- **Live cohorts:** the instructor does live work, so consider 60/40 in the instructor's
-  favour.
-- Write all of this into the instructor contract.
+window, and clawbacks on refunds. Discounts are capped at 15% unless the instructor
+agrees to more, because instructors earn on what was actually paid.
 
 ## 7. Automation (the agent drafts; a human approves anything public or financial)
 
@@ -153,10 +149,9 @@ window, and clawbacks on refunds.
 | 2+ modules owned | Upgrade-credit email: "finish the track for $X more" |
 | Track completed | Exam invite → certificate issued → LinkedIn share prompt → review request → NordStar Pro trial → referral code |
 | 14 days with no progress | Nudge with the next lesson and a webinar invite |
-| All-Access renewal in 30 days / 7 days | Reminder with "what you used this year" summary |
 | Club or team enquiry | Agent researches the organisation, drafts a proposal and licence quote; human sends |
 | Weekly | Agent drafts 3–5 knowledge-base pages for instructor review, social clips from lessons, and affiliate prospect pitches |
-| Monthly | Instructor revenue statements (per-module, track, pool), affiliate payout report, cohort and webinar calendar. **Humans pay.** |
+| Monthly | Instructor revenue statements (one line per module: net × 50%), affiliate payout report, cohort and webinar calendar. **Humans pay.** |
 
 **Where it runs:** Fincoursa_LMS is a UI prototype with no backend. Until a backend is
 built, sell on **Thinkific**, which supports bundles, coupons, certificates, and an
@@ -168,12 +163,12 @@ the same either way.
 
 | Weeks | Do |
 |---|---|
-| 1–2 | Decide access (lifetime vs 12 months), the track price, the All-Access price, refund policy (e.g. 14 days, under 20% consumed), and the instructor contract (splits, pooling). Ask the CMT Association about trademark use and partnership. |
+| 1–2 | Decide access (lifetime vs 12 months), the track price, refund policy (e.g. 14 days, under 20% consumed), and the instructor contract (flat 50% of net). Ask the CMT Association about trademark use and partnership. |
 | 2–4 | Pick **one** track (Technical Analysis Professional). Line up 2–3 instructors and outline 6 modules. Build the free lessons and cheat sheets. Open a waitlist. |
 | 4–8 | Pre-sell a **founding cohort**: the track at a founding price, with live Q&A, to the waitlist and instructors' audiences. Record modules as the cohort runs (pre-selling validates demand before full production). |
 | 6–12 | Launch modules at $199 and the track at $599 on Thinkific. Start the knowledge base (3–5 pages a week), the monthly webinar, and the email sequences. Recruit the first 10–20 creator affiliates. |
 | 10–16 | Certificate live with LinkedIn sharing. Pitch 3 CMT chapters for co-hosted cohorts and 5–10 university clubs for student licences. Start the NordStar Pro cross-sell. |
-| 16–17 | Review: revenue by rung (module / track / All-Access / B2B) and by channel (organic / instructor / affiliate / B2B). Decide on track 2 and on applying for CPE/CE credits. |
+| 16–17 | Review: revenue by rung (module / track / cohort / B2B) and by channel (organic / instructor / affiliate / B2B). Decide on track 2, All-Access, and applying for CPE/CE credits. |
 
 ### Targets to judge it by (assumptions; adjust after the founding cohort)
 
@@ -184,7 +179,5 @@ the same either way.
 ### Decisions needed
 
 1. Lifetime or 12-month access for modules and tracks?
-2. Track price ($599 proposed) and whether to offer All-Access ($799/yr).
-3. How bundle and All-Access revenue is split among instructors (pro-rata vs usage pool).
-4. Live-cohort split (60/40 to the instructor?).
-5. Stay on Thinkific for now, or build the Fincoursa backend first?
+2. Track price ($599 proposed).
+3. Stay on Thinkific for now, or build the Fincoursa backend first?
