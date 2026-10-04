@@ -60,15 +60,15 @@ file before every task. When it conflicts with a skill's generic advice, this fi
    mass-mail the CMT Association member directory. No AI phone calls, no scraped lists,
    and no LinkedIn automation. Every marketing email includes an unsubscribe and the
    postal address (CAN-SPAM).
-9. **The live site is frozen.** Never change `ajoxf/NorthStar-Research` without explicit
-   approval. Any approved change goes on a branch with a Vercel preview deployment, and
-   the owner merges it.
 6. **Disclose AI where required.** Any chat or voice agent states that it is AI in its
    first message (EU AI Act Art. 50).
 7. **Every public piece ends with the risk line:** *"For information only. Not investment
    advice. Trading involves risk of loss."* It should also link `/disclaimer`.
 8. **Ads:** Google and Meta restrict financial-services and crypto ads. Check eligibility
    and certification requirements before drafting any paid campaign.
+9. **The live site is frozen.** Never change `ajoxf/NorthStar-Research` without explicit
+   approval. Any approved change goes on a branch with a Vercel preview deployment, and
+   the owner merges it.
 
 ## Voice
 
