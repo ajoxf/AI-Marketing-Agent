@@ -31,7 +31,7 @@ deals in months 6–12.
 |---|---|---|---|
 | **Team** | Up to 5 named users, all reports, archive | $7,500/yr | 5 × $199 × 12 = $11,940 |
 | **Firm** | Up to 20 users + monthly analyst call | $18,000/yr | — |
-| **Institutional** | Unlimited internal users, analyst access, custom coverage requests | From $30,000/yr | — |
+| **Institutional** | Unlimited internal users, analyst calls (on published research only), coverage requests considered for publication | From $30,000/yr | — |
 | **Client-use add-on** (RIAs) | Rights to use selected charts and commentary in client letters, with attribution and disclaimer | +$3,000/yr | — |
 | **Content licence** (brokers, platforms) | Weekly research feed (PDF, HTML, or API later) for the licensee's customers, co-branded | From $3,000/month | — |
 
@@ -198,3 +198,104 @@ did for WSP.
    with?
 5. Regulatory position (country, registrations). This decides what the DD pack can say,
    and brokers and institutions will ask on the first call.
+
+## 10. Recommendations on the five decisions (pending your sign-off)
+
+### 1. Prices: keep the list prices and discount the first customers instead
+
+- **Keep the §2 list prices.** Institutional buyers read a low price as low quality, and
+  raising a price later is much harder than discounting now.
+- **"Founding partner" offer for the first 5 accounts in each segment:** 40% off year one
+  in exchange for a case study, a testimonial or reference call, and feedback sessions.
+  Year two renews at list price, and the contract says so.
+- **Student clubs:** $99/student for the first 5 clubs (list $149). Clubs talk to each
+  other, so early logos matter more than margin.
+- **Brokers:** never give a free pilot. Charge $4,500 for a 3-month pilot, credited
+  against the annual licence.
+- **Rule:** no discount without something in return (a logo, case study, multi-year term,
+  or up-front payment).
+
+### 2. Who sells: you, for the first 10–15 deals
+
+- **Founder-led** until about 10–15 deals or $150K of B2B revenue. You'll learn the real
+  objections, prices, and buyers, and a hired seller can't do that for you. Block one day
+  a week for B2B.
+- **Experts join calls as "the analyst".** Buyers want to meet the person behind the
+  research or course. Assign one anchor expert per segment:
+  - your most active CMT chapter member for clubs and chapters
+  - your most institutional-sounding expert for RIAs, prop firms, and brokers
+  The flat 70% / 50% share is their reward; an expert who introduces a deal also gets
+  the introduction fee from the platform's share.
+- **Then hire** a business-development person on a modest base plus commission. The
+  commission is paid from the platform's share.
+
+### 3. RIA client-use rights: yes, with limits, and charge for them
+
+**Allowed:**
+- Selected charts and short summary commentary in client letters, client meetings, and
+  investment-committee material
+- Attribution: "Source: NordStar Pro" + the disclaimer, which also markets you to their
+  clients
+
+**Not allowed:**
+- Forwarding or posting full reports
+- Public social media or websites (or only with a 1-week delay, your choice)
+- Removing attribution or presenting the work as their own
+- Reselling
+
+**Price and responsibility:**
+- Include client-use rights in the Firm tier; a +$3,000/yr add-on for Team.
+- The RIA's compliance team is responsible for its own client communications (SEC
+  Marketing Rule, etc.). The agreement says so.
+
+**Before you sell this:** expert contracts must allow NordStar Pro to license their work
+to firms for internal and client use. Add that clause to every expert contract now.
+
+### 4. Brokers: yes, regulated ones only, and never as "signals"
+
+**Work with:**
+- Brokers and platforms regulated in a major jurisdiction (SEC/FINRA, CFTC/NFA, FCA, or
+  equivalent)
+- Education-focused fintech apps
+- Charting and tool vendors
+
+**Avoid:**
+- Unregulated or offshore brokers
+- Binary-options sellers and high-pressure high-leverage CFD shops
+- Unlicensed crypto exchanges
+- **Retail "funded trader challenge" firms.** Treat them separately from real proprietary
+  trading firms; regulators have taken action against some of them.
+- Any partner that wants trade buttons, copy-trading, or "signals" attached to the
+  research. That turns research into a trade inducement and puts both the publisher
+  position and the brand at risk.
+
+**Contract terms:**
+- Co-branded or attributed, never anonymous white-label
+- The licensee's compliance team approves distribution to its customers
+- No exclusivity unless they pay for it
+- You can terminate if they misuse the content
+
+### 5. Regulatory position: get a securities lawyer's written opinion before the first B2B call
+
+I can't decide this for you; it needs a lawyer. These are the questions to bring:
+
+1. **Does the US "publisher's exclusion" cover NordStar Pro?** The test is impersonal,
+   genuine, general and regular publication (*Lowe v. SEC*). In particular, would the
+   proposed **analyst calls and custom coverage requests** for Firm and Institutional
+   tiers make it personalised advice? Until you have an answer, limit analyst calls to
+   **explaining published research, never a client's portfolio**. Change the tier wording
+   from "custom coverage" to "coverage requests considered for publication".
+2. **Commodities and futures research:** does it fall under the CFTC's commodity trading
+   adviser rules, or within their exemption for advice not directed at any particular
+   account?
+3. **UK, EU, and other markets you'll sell into:** whether a periodical-publication
+   exclusion applies (UK FCA), and how financial-promotion rules affect marketing there.
+4. **Experts:** any expert who is a registered rep or works at an RIA or bank needs their
+   employer's outside-business-activity approval. Each expert discloses personal positions
+   in names they cover (a personal-trading and conflicts policy).
+5. **Business basics:** the legal entity and where it is, terms of use and licence
+   agreement, and errors-and-omissions (professional liability) insurance. Institutions
+   and brokers will ask for the insurance certificate.
+
+Once you have the opinion, the agent turns it into the "Regulatory position" page of the
+due-diligence pack.
