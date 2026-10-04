@@ -11,9 +11,14 @@ file before every task. When it conflicts with a skill's generic advice, this fi
 - **Price:** $199/month (default package; admin-managed packages may differ). Members pay
   by card (Stripe, auto-renews) or crypto (Cregis, renews **manually**, so renewal
   reminders matter).
-- **Audience:** self-directed and semi-professional traders and investors who follow
-  macro, commodities, FX, options, or crypto. This is a **consumer (B2C)** purchase,
-  bought on trust and on demonstrated insight.
+- **Audience (ICP), in priority order** (see `playbooks/go-to-market-plan.md`):
+  1. The **CMT community**: charterholders, candidates, and members. Most instructors are
+     CMTs, and this is where the business starts.
+  2. **Independent RIAs** with a technical or tactical approach (firm licences).
+  3. **Family offices and institutions**: later, through warm introductions and a
+     published track record.
+  4. Self-directed traders (B2C).
+  Every segment buys on trust and demonstrated insight.
 - **Site source:** `ajoxf/NorthStar-Research` (Next.js). Public pages: `/`, `/coverage`,
   `/experts`, `/experts/[slug]`, `/faqs`, `/join`, `/trial`, `/disclaimer`.
 
@@ -47,10 +52,17 @@ file before every task. When it conflicts with a skill's generic advice, this fi
 4. **Human approval for anything public or outbound.** Draft into `drafts/` (or the
    scheduling tool's draft queue). Never publish, post, send, or spend money without
    explicit approval for that item.
-5. **Consent-only messaging.** Email or WhatsApp only people who opted in: members, trial
-   users, and people who submitted the sample-report or pricing form. No cold consumer
-   email, no AI phone calls, no scraped lists, no LinkedIn automation. Every marketing
-   email includes an unsubscribe and the postal address (CAN-SPAM).
+5. **Consent-only messaging to individuals.** Email or WhatsApp individuals only if they
+   opted in: members, trial users, and people who submitted the sample-report or pricing
+   form. **B2B exception:** 1:1, personalised emails to a business contact at an RIA,
+   family office, or institution are allowed. The agent drafts them and a human sends
+   them, at a low volume of tens per week, never as automated sequences. Never scrape or
+   mass-mail the CMT Association member directory. No AI phone calls, no scraped lists,
+   and no LinkedIn automation. Every marketing email includes an unsubscribe and the
+   postal address (CAN-SPAM).
+9. **The live site is frozen.** Never change `ajoxf/NorthStar-Research` without explicit
+   approval. Any approved change goes on a branch with a Vercel preview deployment, and
+   the owner merges it.
 6. **Disclose AI where required.** Any chat or voice agent states that it is AI in its
    first message (EU AI Act Art. 50).
 7. **Every public piece ends with the risk line:** *"For information only. Not investment
